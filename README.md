@@ -7,7 +7,7 @@ Text Language : English <br>
 Agent : 15 <br>
 "_**Only support all Agents are unlocked**_" <br>
 
-## [How to use](https://www.youtube.com/watch?v=okPJGBwlrsk&t=1s)  <br>
+## [How to use]
 F5 : show setting window <br>
 F7 : exit script <br>
 
